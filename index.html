@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Iris Li — Marketer</title>
+  <meta name="description" content="Iris Li is a digital marketer combining rigorous data analysis with creative storytelling — paid media, content strategy and performance marketing.">
+  <meta property="og:title" content="Iris Li — Digital Marketer">
+  <meta property="og:description" content="Strategy-minded. Product-driven. AI-curious. Case studies and graduate coursework.">
+  <meta property="og:image" content="assets/images/home/home-portrait.jpg">
+  <meta name="theme-color" content="#F7F6F2">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='16' fill='%23151513'/%3E%3Ccircle cx='16' cy='16' r='6' fill='%23B9E14F'/%3E%3C/svg%3E">
+  <link rel="preload" href="assets/fonts/inter-tight-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <button class="skip" type="button" onclick="document.getElementById('main').focus()">Skip to content</button>
+
+  <header class="site-header">
+    <div class="wrap nav">
+      <a href="#/" class="logo" aria-label="Iris Li — home">Iris Li<span class="dot"></span></a>
+      <nav aria-label="Primary">
+        <ul class="nav-links">
+          <li><a class="nav-link" href="#/" data-nav="home">Home</a></li>
+          <li class="has-dd">
+            <button class="nav-link" data-nav="portfolio" data-dd aria-expanded="false" aria-controls="dd-portfolio">Portfolio <svg class="chev" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M3 4.5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <div class="dropdown" id="dd-portfolio">
+              <a href="#/case-studies" data-nav="cs">Case Studies</a>
+              <a href="#/coursework" data-nav="cw">Coursework</a>
+            </div>
+          </li>
+          <li><a class="nav-link" href="#/resume" data-nav="resume">Resume</a></li>
+          <li><a class="nav-link" href="#/about" data-nav="about">About</a></li>
+        </ul>
+      </nav>
+      <button class="menu-btn" aria-label="Menu" aria-expanded="false" aria-controls="mobile-menu"><span></span><span></span></button>
+    </div>
+  </header>
+
+  <div class="mobile-menu" id="mobile-menu">
+    <ul>
+      <li><a href="#/">Home</a></li>
+      <li><a href="#/case-studies">Portfolio</a></li>
+      <li class="sub"><a href="#/case-studies">Case Studies</a></li>
+      <li class="sub"><a href="#/coursework">Coursework</a></li>
+      <li><a href="#/resume">Resume</a></li>
+      <li><a href="#/about">About</a></li>
+    </ul>
+  </div>
+
+  <main id="main" tabindex="-1"></main>
+
+  <footer class="site-footer" id="footer"></footer>
+
+  <div class="lightbox" role="dialog" aria-modal="true" aria-label="Image preview" aria-hidden="true">
+    <img alt="">
+    <button type="button" aria-label="Close preview"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg></button>
+  </div>
+  <div class="toast" role="status" aria-live="polite"></div>
+
+  <noscript><p style="padding:120px 24px">This portfolio needs JavaScript. Email: lyl20341077@outlook.com</p></noscript>
+
+  <!-- Content (edit these) -->
+  <script src="data/site.js"></script>
+  <script src="data/case-studies.js"></script>
+  <script src="data/coursework.js"></script>
+  <!-- App -->
+  <script src="assets/js/journey-art.js"></script>
+  <script src="assets/js/marbles.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
