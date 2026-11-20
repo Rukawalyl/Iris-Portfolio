@@ -90,54 +90,6 @@
   ],
   "originalMaterials": [
     {
-      "path": "portfolio-assets/images/home/home-portrait.jpg",
-      "bytes": 5023544,
-      "sha256": "ba8baa1065102ecc6fc9669c33262b7a466e841176b7678de47df3de39e16638",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/images/home/home-portrait.jpg"
-    },
-    {
-      "path": "portfolio-assets/images/projects/loccitane/loccitane-cover.jpg",
-      "bytes": 127795,
-      "sha256": "06b630f533472369869ba7a0b1e28489381cddd585cb0a1a5e44d57393f68895",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/images/projects/loccitane/loccitane-cover.jpg"
-    },
-    {
-      "path": "portfolio-assets/images/projects/thinkvas/thinkvas-cover.png",
-      "bytes": 1697653,
-      "sha256": "1d49cfb12dc4dbdb5aec56a91642c683cccadaa8bad10e993dae9416ad555c47",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/images/projects/thinkvas/thinkvas-cover.png"
-    },
-    {
-      "path": "portfolio-assets/images/projects/netease/netease-tryfun-logo.jpeg",
-      "bytes": 71674,
-      "sha256": "44836199641a191ddbfe2a884bf746cc05104ce77e47ca04e42f7c5c2afedcab",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/images/projects/netease/netease-tryfun-logo.jpeg"
-    },
-    {
-      "path": "portfolio-assets/images/coursework/duolingo/duolingo-social-media-manual-cover.png",
-      "bytes": 469322,
-      "sha256": "8085e3fed467d61dce5150da757247fdce06d229c367517efc11e9932ad19082",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/images/coursework/duolingo/duolingo-social-media-manual-cover.png"
-    },
-    {
-      "path": "portfolio-assets/images/coursework/let-ai-help/let-ai-help-cover.png",
-      "bytes": 132470,
-      "sha256": "1ba4b341da94bd7a96dbb085187cbb89c0fa97abcdee855a4921f6daf2292b39",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/images/coursework/let-ai-help/let-ai-help-cover.png"
-    },
-    {
-      "path": "portfolio-assets/images/about/about-capitol.png",
-      "bytes": 948280,
-      "sha256": "42b964d6fd872691feeca60e758f6f4cd834df801872fbe8b451ed8d66857598",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/images/about/about-capitol.png"
-    },
-    {
-      "path": "portfolio-assets/images/about/about-garden.png",
-      "bytes": 781442,
-      "sha256": "111dab9c338e194a4c9cc3935241adacf51004c408bf32f9688c3366a26a3366",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/images/about/about-garden.png"
-    },
-    {
       "path": "portfolio-assets/files/projects/shopback/shopback-strategy-proposal.pdf",
       "bytes": 629144,
       "sha256": "0d9d8c3d703ca9b31fa3f3fb904765e7a01a28a02bb687ef1a484f9f1a951e8f",
@@ -198,5 +150,7 @@
     "source": "User-provided iris-portfolio-github.zip, 2026-11-20",
     "sha256": "9c292d82fef11a72c33731a9f5968cc33714d4919bb9a3fad5b20985df8195be",
     "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/files/Iris-Li-Resume.pdf"
-  }
+  },
+  "privateMaterialsRepository": "https://github.com/Rukawalyl/Iris-Portfolio-Materials",
+  "privacyNote": "Original images removed from the current public tree. Previous public Git history is not erased by this change."
 }
