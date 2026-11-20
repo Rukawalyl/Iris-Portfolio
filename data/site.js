@@ -11,7 +11,7 @@ window.SITE = {
   linkedin: "https://www.linkedin.com/in/iris-yulin-li/",
   linkedinHandle: "iris-yulin-li",
   // Resume PDF. Swap for a self-hosted file (e.g. "assets/files/Iris-Li-Resume.pdf") when ready.
-  resumeUrl: "https://superb-teal-4tnwd48x.edgeone.dev/",
+  resumeUrl: "assets/files/Iris-Li-Resume.pdf",
 
   hero: {
     traits: ["Strategy-minded", "Product-driven", "AI-curious"],

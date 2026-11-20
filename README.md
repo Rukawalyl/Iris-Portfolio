@@ -65,3 +65,7 @@ deploy.sh                  one-step publish script
 **Logos in Education** — set `logo:` on an education entry. A white background is fine.
 
 **AI Projects (reserved)** — add items to `aiProjects` in `data/site.js` with `published: true`. The section appears automatically.
+
+
+<h2><span style="color:#7030A0">网站与全部素材统一入口（2026-11-20）</span></h2>
+<p><a href="MATERIALS.md"><span style="color:#7030A0">查看分类目录：网站图片、原始照片、Resume、课程 PDF、案例提案及 AI 素材清单</span></a></p>

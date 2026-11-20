@@ -47,7 +47,7 @@ I believe the future belongs to those who can bridge the gap between creative st
     tags: ["Brand Strategy", "Campaign Planning", "Social Impact"],
     summary: "Transforming a mental health framework into a viral peer support movement through brand strategy and grassroots mobilization.",
     cover: "assets/images/coursework/active-minds-cover.jpg",
-    pdfUrl: "https://agreed-beige-kqx7uwymfm.edgeone.app/Apply%20-%20A.S.K.%20-%20Nicole%20Li.pdf",
+    pdfUrl: "portfolio-assets/files/coursework/active-minds/active-minds-presentation.pdf",
     linkLabel: "View Full Presentation Deck",
     body: `
 ### Campaign Background
@@ -81,7 +81,7 @@ I developed a comprehensive impact campaign focusing on these key areas:
     tags: ["Social Media Strategy", "Content Planning", "Brand Management"],
     summary: "A comprehensive strategic playbook redefining Duolingo's social presence to balance viral entertainment with AI-driven educational credibility.",
     cover: "assets/images/coursework/duolingo-cover.jpg",
-    pdfUrl: "https://artificial-jade-dhqvyyrn8t.edgeone.app/Social%20Media%20Manual%20-%20Duolingo.pdf",
+    pdfUrl: "portfolio-assets/files/coursework/duolingo/duolingo-social-media-manual.pdf",
     linkLabel: "View Full Presentation Deck",
     body: `
 ### Campaign Background
@@ -115,7 +115,7 @@ I developed a comprehensive manual and strategy focusing on these key areas:
     tags: ["Health Communication", "Campaign Strategy", "Behavioral Science"],
     summary: "A behavior change campaign proposal designed to mitigate emotional overdependence on AI chatbots among Gen Z by fostering offline connection.",
     cover: "assets/images/coursework/let-ai-help-cover.jpg",
-    pdfUrl: "https://secondary-amaranth-czbf9mknat.edgeone.app/Changing%20Behavior_Final%20Paper%20pre_Yulin%20Li.pdf",
+    pdfUrl: "portfolio-assets/files/coursework/let-ai-help/let-ai-help-but-let-people-in.pdf",
     linkLabel: "View Full Paper",
     body: `
 ### Campaign Background

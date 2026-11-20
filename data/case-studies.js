@@ -123,7 +123,7 @@ I tracked SKU and channel performance with Excel pivot tables and dashboards, de
     cover: "assets/images/projects/shopback-cover.jpg",
     coverFit: "cover",
     coverBg: "#000000",
-    pdfUrl: "https://chronic-peach-1ipgviapma.edgeone.app/Case%20Proposal%20-%20Shopback.pdf",
+    pdfUrl: "portfolio-assets/files/projects/shopback/shopback-strategy-proposal.pdf",
     pdfLabel: "View Full Proposal",
     body: `
 ### Challenge
