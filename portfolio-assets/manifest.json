@@ -144,12 +144,6 @@
       "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/files/projects/shopback/shopback-strategy-proposal.pdf"
     },
     {
-      "path": "portfolio-assets/files/resume/yulin-li-resume.pdf",
-      "bytes": 159048,
-      "sha256": "9c292d82fef11a72c33731a9f5968cc33714d4919bb9a3fad5b20985df8195be",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/files/resume/yulin-li-resume.pdf"
-    },
-    {
       "path": "portfolio-assets/files/coursework/duolingo/duolingo-social-media-manual.pdf",
       "bytes": 14994272,
       "sha256": "055f3fce4c970c5b1a95c376ef101c2dbbdfe5fdaf215b407fc88124852feba1",
@@ -200,8 +194,9 @@
   ],
   "resume": {
     "websitePath": "assets/files/Iris-Li-Resume.pdf",
-    "archivePath": "portfolio-assets/files/resume/yulin-li-resume.pdf",
+    "archivePath": "assets/files/Iris-Li-Resume.pdf",
     "source": "User-provided iris-portfolio-github.zip, 2026-11-20",
-    "sha256": "9c292d82fef11a72c33731a9f5968cc33714d4919bb9a3fad5b20985df8195be"
+    "sha256": "9c292d82fef11a72c33731a9f5968cc33714d4919bb9a3fad5b20985df8195be",
+    "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/files/Iris-Li-Resume.pdf"
   }
 }

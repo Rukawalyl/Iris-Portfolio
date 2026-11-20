@@ -1,3 +1,14 @@
+<div style="color:#7030A0">
+<h1>Iris-Portfolio</h1>
+<p>Website, downloadable documents and original creative materials.</p>
+<table><tr><th>Category</th><th>Location</th></tr><tr><td>Home portrait</td><td><a href="assets/images/home/">assets/images/home/</a></td></tr><tr><td>About photos</td><td><a href="assets/images/about/">assets/images/about/</a></td></tr><tr><td>Case study covers</td><td><a href="assets/images/projects/">assets/images/projects/</a></td></tr><tr><td>Coursework covers</td><td><a href="assets/images/coursework/">assets/images/coursework/</a></td></tr><tr><td>Education logos</td><td><a href="assets/images/logos/">assets/images/logos/</a></td></tr><tr><td>Resume PDF</td><td><a href="assets/files/Iris-Li-Resume.pdf">assets/files/Iris-Li-Resume.pdf</a></td></tr><tr><td>Case study PDFs</td><td><a href="portfolio-assets/files/projects/">portfolio-assets/files/projects/</a></td></tr><tr><td>Coursework PDFs</td><td><a href="portfolio-assets/files/coursework/">portfolio-assets/files/coursework/</a></td></tr><tr><td>Original photos and covers</td><td><a href="portfolio-assets/images/">portfolio-assets/images/</a></td></tr><tr><td>AI-readable asset manifest</td><td><a href="portfolio-assets/manifest.json">portfolio-assets/manifest.json</a></td></tr></table>
+<p>Website content: <a href="data/">data/</a> · Styling and interactions: <a href="assets/">assets/</a> · Automated publishing: <a href=".github/workflows/pages.yml">GitHub Pages workflow</a></p>
+<p>Privacy: this repository and its files are currently public. Images displayed on the website and downloadable PDFs are publicly accessible. Original materials are stored separately from website-ready images.</p>
+</div>
+
+<details><summary>Previous setup instructions (superseded)</summary>
+<del>
+
 # Iris Li — Portfolio
 
 A static site: plain HTML, CSS and JavaScript, with no build step and no dependencies.
@@ -67,5 +78,6 @@ deploy.sh                  one-step publish script
 **AI Projects (reserved)** — add items to `aiProjects` in `data/site.js` with `published: true`. The section appears automatically.
 
 
-<h2><span style="color:#7030A0">网站与全部素材统一入口（2026-11-20）</span></h2>
-<p><a href="MATERIALS.md"><span style="color:#7030A0">查看分类目录：网站图片、原始照片、Resume、课程 PDF、案例提案及 AI 素材清单</span></a></p>
+
+</del>
+</details>
