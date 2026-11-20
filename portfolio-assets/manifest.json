@@ -1,91 +1,91 @@
 {
   "updatedDate": "2026-11-20",
-  "repository": "https://github.com/Rukawalyl/iris-portfolio",
-  "liveSite": "https://rukawalyl.github.io/iris-portfolio/",
+  "repository": "https://github.com/Rukawalyl/Iris-Portfolio",
+  "liveSite": "https://rukawalyl.github.io/Iris-Portfolio/",
   "websiteImages": [
     {
       "path": "assets/images/about/about-capitol.jpg",
       "gitBlobSha": "6c2ae152aeb2a075d037bcb18e209e2015c618b7",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/about/about-capitol.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/about/about-capitol.jpg"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/about/about-capitol.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/about/about-capitol.jpg"
     },
     {
       "path": "assets/images/about/about-garden.jpg",
       "gitBlobSha": "4d4cc5cbb165b59423c3e29935c506b5961a5838",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/about/about-garden.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/about/about-garden.jpg"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/about/about-garden.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/about/about-garden.jpg"
     },
     {
       "path": "assets/images/coursework/active-minds-cover.jpg",
       "gitBlobSha": "7f41e300bf28858bcf7cd186ad8127e5864fc684",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/coursework/active-minds-cover.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/coursework/active-minds-cover.jpg"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/coursework/active-minds-cover.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/coursework/active-minds-cover.jpg"
     },
     {
       "path": "assets/images/coursework/ai-learning-hub-cover.jpg",
       "gitBlobSha": "41142ea5a0dc07e186fe0fc1ac41764512d7a6f3",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/coursework/ai-learning-hub-cover.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/coursework/ai-learning-hub-cover.jpg"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/coursework/ai-learning-hub-cover.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/coursework/ai-learning-hub-cover.jpg"
     },
     {
       "path": "assets/images/coursework/duolingo-cover.jpg",
       "gitBlobSha": "d608ca4887c5c158145cf78916a91c0f6298abc1",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/coursework/duolingo-cover.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/coursework/duolingo-cover.jpg"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/coursework/duolingo-cover.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/coursework/duolingo-cover.jpg"
     },
     {
       "path": "assets/images/coursework/let-ai-help-cover.jpg",
       "gitBlobSha": "0bb50783ded817509ec0298a51de1acdee904dd1",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/coursework/let-ai-help-cover.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/coursework/let-ai-help-cover.jpg"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/coursework/let-ai-help-cover.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/coursework/let-ai-help-cover.jpg"
     },
     {
       "path": "assets/images/home/home-portrait.jpg",
       "gitBlobSha": "4190433330c452d7549fdbf691c65aafa93d8001",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/home/home-portrait.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/home/home-portrait.jpg"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/home/home-portrait.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/home/home-portrait.jpg"
     },
     {
       "path": "assets/images/logos/jhu.png",
       "gitBlobSha": "90a4e4b43e58ffaa161a44da9950b46d6d0d5422",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/logos/jhu.png",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/logos/jhu.png"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/logos/jhu.png",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/logos/jhu.png"
     },
     {
       "path": "assets/images/logos/sysu.png",
       "gitBlobSha": "a8ffab7a18b0701cec48d52af3989907f7e5d9eb",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/logos/sysu.png",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/logos/sysu.png"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/logos/sysu.png",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/logos/sysu.png"
     },
     {
       "path": "assets/images/projects/loccitane-cover.jpg",
       "gitBlobSha": "5c785171c0ef62ecfa227c6dceb868b8500a36b6",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/projects/loccitane-cover.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/projects/loccitane-cover.jpg"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/projects/loccitane-cover.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/projects/loccitane-cover.jpg"
     },
     {
       "path": "assets/images/projects/netease-tryfun.jpg",
       "gitBlobSha": "335b2f5fb68282f68bf1371464649d71ca61f783",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/projects/netease-tryfun.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/projects/netease-tryfun.jpg"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/projects/netease-tryfun.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/projects/netease-tryfun.jpg"
     },
     {
       "path": "assets/images/projects/shopback-cover.jpg",
       "gitBlobSha": "e57a5c90ce80379fd7c05edcf08e772e5581d4b5",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/projects/shopback-cover.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/projects/shopback-cover.jpg"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/projects/shopback-cover.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/projects/shopback-cover.jpg"
     },
     {
       "path": "assets/images/projects/sunrise-cover.jpg",
       "gitBlobSha": "6611fde6079f6de188f4f44155b5013c466a7863",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/projects/sunrise-cover.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/projects/sunrise-cover.jpg"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/projects/sunrise-cover.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/projects/sunrise-cover.jpg"
     },
     {
       "path": "assets/images/projects/thinkvas-cover.jpg",
       "gitBlobSha": "8e521657b0b6981ade19c8b5f050e32e568119ef",
-      "siteUrl": "https://rukawalyl.github.io/iris-portfolio/assets/images/projects/thinkvas-cover.jpg",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/images/projects/thinkvas-cover.jpg"
+      "siteUrl": "https://rukawalyl.github.io/Iris-Portfolio/assets/images/projects/thinkvas-cover.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/images/projects/thinkvas-cover.jpg"
     }
   ],
   "originalMaterials": [
@@ -93,25 +93,25 @@
       "path": "portfolio-assets/files/projects/shopback/shopback-strategy-proposal.pdf",
       "bytes": 629144,
       "sha256": "0d9d8c3d703ca9b31fa3f3fb904765e7a01a28a02bb687ef1a484f9f1a951e8f",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/files/projects/shopback/shopback-strategy-proposal.pdf"
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/portfolio-assets/files/projects/shopback/shopback-strategy-proposal.pdf"
     },
     {
       "path": "portfolio-assets/files/coursework/duolingo/duolingo-social-media-manual.pdf",
       "bytes": 14994272,
       "sha256": "055f3fce4c970c5b1a95c376ef101c2dbbdfe5fdaf215b407fc88124852feba1",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/files/coursework/duolingo/duolingo-social-media-manual.pdf"
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/portfolio-assets/files/coursework/duolingo/duolingo-social-media-manual.pdf"
     },
     {
       "path": "portfolio-assets/files/coursework/let-ai-help/let-ai-help-but-let-people-in.pdf",
       "bytes": 7101539,
       "sha256": "6b195c15783a4e42ea8a86a9973a08f4148016d672d960d24bceba98444aae23",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/files/coursework/let-ai-help/let-ai-help-but-let-people-in.pdf"
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/portfolio-assets/files/coursework/let-ai-help/let-ai-help-but-let-people-in.pdf"
     },
     {
       "path": "portfolio-assets/files/coursework/active-minds/active-minds-presentation.pdf",
       "bytes": 14078243,
       "sha256": "26790edd7159b876e5605cd304ae9d106f22bd4edf7393893ef083a2e6a6b685",
-      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/portfolio-assets/files/coursework/active-minds/active-minds-presentation.pdf"
+      "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/portfolio-assets/files/coursework/active-minds/active-minds-presentation.pdf"
     }
   ],
   "pdfSources": [
@@ -149,7 +149,7 @@
     "archivePath": "assets/files/Iris-Li-Resume.pdf",
     "source": "User-provided iris-portfolio-github.zip, 2026-11-20",
     "sha256": "9c292d82fef11a72c33731a9f5968cc33714d4919bb9a3fad5b20985df8195be",
-    "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/iris-portfolio/main/assets/files/Iris-Li-Resume.pdf"
+    "rawUrl": "https://raw.githubusercontent.com/Rukawalyl/Iris-Portfolio/main/assets/files/Iris-Li-Resume.pdf"
   },
   "privateMaterialsRepository": "https://github.com/Rukawalyl/Iris-Portfolio-Materials",
   "privacyNote": "Original images removed from the current public tree. Previous public Git history is not erased by this change."
